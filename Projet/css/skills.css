@@ -1,0 +1,36 @@
+
+* {box-sizing:border-box}
+
+
+.container {
+    width: 20%;
+    background-color: #ddd;
+border-radius: 40px 40px 40px 40px;
+margin: auto;
+}
+
+.skills {
+    text-align: right;
+    padding-right: 5px;
+    line-height: 17px;
+    color: white;
+border-radius: 40px 40px 0px 40px;
+}
+
+.html {width: 80%; background-color: #52073A;}
+
+.Linux {width: 60%; background-color: #52073A;}
+
+.windows {width: 60%; background-color: #52073A;}
+
+.css {width: 70%; background-color: #52073A;}
+
+.js {width: 50%; background-color: #52073A;}
+
+.ruby {width: 35%; background-color: #52073A;}
+
+.C {width: 20%; background-color: #52073A;}
+
+
+
+

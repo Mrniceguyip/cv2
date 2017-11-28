@@ -1,0 +1,46 @@
+
+
+
+
+div.page {
+	text-align:center;
+	}
+
+
+	section#header {
+		float:top;
+	width:100%;
+	height:160px;
+	background-color:#42073A;
+opacity:0.80;
+
+margin:0px;
+padding-top:20px;
+border-radius: 2px 2px 40px 40px;
+	}
+
+	div#objectif { 
+
+    width:100%;
+	height:180px;
+		}
+
+div#content {
+	width:100%;
+	height:200px;
+	background-color:#003745;
+	}
+
+div#footer {
+	width:100%;
+	height:80px;
+	background-color:#52073A;
+	opacity:0.95;
+	border-radius: 20px 20px 2px 2px;
+	}
+
+
+
+
+
+

@@ -1,0 +1,112 @@
+.center{
+	
+text-align: justify;
+    font-weight: darkseagreen;
+    color: #8FBC8F;
+    font-variant: small-caps;
+}
+
+body
+{
+  width: 100%;
+  margin: 0;
+  background-color: #FFFFFF;
+}
+
+p
+{
+            font-size: 35px;
+	text-align: center; 
+  margin: 0;
+  color: #AAB3AB;
+}
+
+#email{
+	font-size: 24;
+		color:#F7A500;
+		text-align: center;
+
+}
+
+#name{
+	color:#F7A500;
+	font-size: 33px;
+	font-weight: bolder;
+}
+#name1{
+	color:#F7A500;
+	font-size: 33px;
+	font-weight: bolder;
+	font-style: italic;
+text-decoration: underline;
+}
+
+.titre{
+	
+	color:#F7A500;
+	font-size: 33px;
+	font-weight: bolder;
+
+ #objectif{
+ 	
+ }
+
+
+  #cv{
+  	font-size: 80px;
+  	font-style:italic;
+ color: chocolate;
+  }
+
+
+
+  #footer{
+  	font-size: 33px;
+  }
+
+
+  .degrade {
+    font-size: 50px;
+    background: -webkit-gradient(linear, left top, left bottom, from(#000), to(#045FB4));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+* {box-sizing:border-box}
+
+
+.container {
+    width: 100%;
+    background-color: #ddd;
+border-radius: 40px 40px 40px 40px;
+}
+
+.skills {
+    text-align: center;
+    padding-right: 5px;
+    line-height: 30px;
+    color: white;
+}
+
+.html {width: 80%; background-color: #52073A;}
+
+.Linux {width: 60%; background-color: #52073A;}
+
+.windows {width: 70%; background-color: #52073A;}
+
+.css {width: 70%; background-color: #52073A;}
+
+.js {width: 50%; background-color: #52073A;}
+
+.ruby {width: 35%; background-color: #52073A;}
+
+.C {width: 20%; background-color: #52073A;}
+
